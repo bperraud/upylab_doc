@@ -1,10 +1,12 @@
-Welcome to Lumache's documentation!
-===================================
+Bienvenue dans la documentation d'UpyLaB !
+==========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**UpyLaB** est une plateforme en ligne d'apprentissage de la programmation
+Python, développée à l'Université libre de Bruxelles (ULB).
+Les enseignants y proposent des cours organisés en chapitres d'exercices ;
+les étudiants y soumettent leur code, qui est exécuté et vérifié
+*automatiquement* par une série de tests, avec un retour *immédiat*
+et autant d'essais que nécessaire.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -18,5 +20,8 @@ Contents
 
 .. toctree::
 
-   usage
    api
+
+   student
+
+   prof
