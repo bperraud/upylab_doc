@@ -8,9 +8,6 @@ les étudiants y soumettent leur code, qui est exécuté et vérifié
 *automatiquement* par une série de tests, avec un retour *immédiat*
 et autant d'essais que nécessaire.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
    This project is under active development.

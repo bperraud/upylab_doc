@@ -19,6 +19,14 @@ extensions = [
     "sphinx.ext.intersphinx",
 ]
 
+html_context = {
+    "display_github": True,
+    "github_user": "bperraud",
+    "github_repo": "upylab_doc",
+    "github_version": "main",
+    "conf_py_path": "/docs/source/",
+}
+
 intersphinx_mapping = {
     "python": ("https://docs.python.org/3/", None),
     "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
